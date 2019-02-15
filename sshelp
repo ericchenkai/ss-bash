@@ -20,6 +20,8 @@ del    [port]: delete the user who is using the port
 show       : show all ports traffic info
 show [port]: show the traffic info of the user who is using the port
 
+online     : show online users and the IP & Geo-Location information
+
 showpw                : show all passwords
 showpw [port]         : show the password of the user who is using the port
 cpw    [port] [passwd]: change the password of the user who is using the port
